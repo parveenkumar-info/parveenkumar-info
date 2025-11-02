@@ -12,6 +12,7 @@ I am Parveen Kumar — a passionate **Full-Stack Web Developer**, **Entrepreneur
 
 - Worked on **AIIMS** and **UPPRB (Uttar Pradesh Police)** at my official **job** for 4 months.  
 - For other projects like **FileMyReturn (FMR)**, **TravelsGram**, **Lifenest**, and **Zafari Travel**, I worked freelance, completing major phases and now maintaining ongoing updates.  
+- I mainly work on new projects using **Next.js**, **React.js**, **Node.js** (Backend), and **React Native** (for apps).  
 
 ***
 
@@ -27,13 +28,13 @@ I am Parveen Kumar — a passionate **Full-Stack Web Developer**, **Entrepreneur
 ### 📺 Learn & Connect
 
 Teaching programming on YouTube in Hinglish since **August 23, 2025**:  
-📺 [YouTube Channel](https://www.youtube.com/@parveenkumar_info)  
+🎬 [YouTube Channel](https://www.youtube.com/@parveenkumar_info)  
 
 Follow me on Instagram:  
-📸 [@parveenkumar.info](https://www.instagram.com/parveenkumar.info/)  
+🎥 [@parveenkumar.info](https://www.instagram.com/parveenkumar.info/)  
 
 Stay updated on X (Twitter):  
-🐦 [@parveenkumar_in](https://x.com/parveenkumar_in)  
+𝕏 [@parveenkumar_in](https://x.com/parveenkumar_in)  
 
 ***
 
