@@ -10,9 +10,8 @@ I am Parveen Kumar — a passionate **Full-Stack Web Developer**, **Entrepreneur
 
 ### 🚀 About Me
 
-- Worked **4 months** on [AIIMS](https://www.perplexity.ai/search/parveenkumar-info-parveenkumar-CnytszAWQdWKC33PAWPdXg#) & [UPPRB (Uttar Pradesh Police)](https://www.perplexity.ai/search/parveenkumar-info-parveenkumar-CnytszAWQdWKC33PAWPdXg#) web portals  
-- Currently managing **FileMyReturn (FMR)** as a full-stack lead — handling development, DevOps, coding, CMS, ITR filing user portal, and admin panel. This project is ongoing with continuous updates.  
-- Actively developing backend, admin panels, and apps for **Zafari Travel**, **TravelsGram**, and **Lifenest** (all ongoing projects)  
+- Worked on **AIIMS** and **UPPRB (Uttar Pradesh Police)** at my official **job** for 4 months.  
+- For other projects like **FileMyReturn (FMR)**, **TravelsGram**, **Lifenest**, and **Zafari Travel**, I worked freelance, completing major phases and now maintaining ongoing updates.  
 
 ***
 
@@ -21,21 +20,20 @@ I am Parveen Kumar — a passionate **Full-Stack Web Developer**, **Entrepreneur
 - Web Design & Frontend Development  
 - Backend Systems & APIs  
 - CMS & Admin Panel Development  
-- Full Project Lifecycle Management (DevOps, Coding, Deployment)  
 - Creative Problem Solving for custom client needs  
 
 ***
 
 ### 📺 Learn & Connect
 
-Teaching programming on YouTube in Hinglish since 2025:  
-[YouTube Channel](https://www.youtube.com/@parveenkumar_info)  
+Teaching programming on YouTube in Hinglish since **August 23, 2025**:  
+📺 [YouTube Channel](https://www.youtube.com/@parveenkumar_info)  
 
 Follow me on Instagram:  
-[@parveenkumar.info](https://www.instagram.com/parveenkumar.info/)  
+📸 [@parveenkumar.info](https://www.instagram.com/parveenkumar.info/)  
 
 Stay updated on X (Twitter):  
-[@parveenkumar_in](https://x.com/parveenkumar_in)  
+🐦 [@parveenkumar_in](https://x.com/parveenkumar_in)  
 
 ***
 
@@ -49,14 +47,14 @@ Stay updated on X (Twitter):
 
 ### 🗂️ Key Projects
 
-| Project               | Role & Details                                                | Status           |
-|-----------------------|--------------------------------------------------------------|------------------|
-| AIIMS Web Portal      | Full-stack Developer (4 months)                              | Completed        |
-| UPPRB Web Portal      | Full-stack Developer (4 months)                              | Completed        |
-| FileMyReturn (FMR)    | Lead Full-Stack Developer & DevOps - User portal, ITR, CMS  | Ongoing / Updates|
-| Zafari Travel         | Backend, Admin Panel, Android/iOS app                        | Ongoing          |
-| TravelsGram           | Admin Panel Development                                      | Ongoing          |
-| Lifenest              | Admin Panel Development                                      | Ongoing          |
+| Project               | Role & Details                                | Status                 |
+|-----------------------|----------------------------------------------|------------------------|
+| AIIMS Web Portal      | Full-stack Developer at job                   | Completed              |
+| UPPRB Web Portal      | Full-stack Developer at job                   | Completed              |
+| FileMyReturn (FMR)    | Freelance Lead Full-Stack Developer           | Completed, ongoing updates |
+| Zafari Travel         | Freelance Backend & Admin Panel Development   | Completed, ongoing updates |
+| TravelsGram           | Freelance Admin Panel Development              | Completed, ongoing updates |
+| Lifenest              | Freelance Admin Panel Development              | Completed, ongoing updates |
 
 ***
 
