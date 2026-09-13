@@ -12,8 +12,8 @@ Full-stack engineer building production platforms in Next.js, Node.js and React 
 | **Uhire** | Full-stack developer — AI-powered hiring platform. Candidate portal, recruiter HRMS, interview and task workflows | Live, ongoing |
 | **PayRecord** | Founder & engineer — offline-first finance tracker for Android and iOS. Local-first data, no server dependency | Live |
 | **AnythingKart** | Founder & engineer — multi-category e-commerce marketplace. Storefront, catalogue, cart and order flow in Next.js | In development, launching 2026 |
-| **AIIMS Web Portal** | Full-stack developer | Completed |
-| **UPPRB Web Portal** | Full-stack developer (Uttar Pradesh Police) | Completed |
+| **UPPRB Web Portal** | Full-stack developer, vendor engineering team — built DigiLocker OTR (One Time Registration) integration for Uttar Pradesh Police Recruitment Board | Completed |
+| **AIIMS Web Portal** | Full-stack developer, vendor engineering team | Completed |
 | **Zafari Travel** | Backend & admin panel development | Completed, ongoing updates |
 | **TravelsGram** | Admin panel development | Completed, ongoing updates |
 | **Lifenest** | Admin panel development | Completed, ongoing updates |
