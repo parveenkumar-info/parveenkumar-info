@@ -11,6 +11,7 @@ Full-stack engineer building production platforms in Next.js, Node.js and React 
 | **FileMyReturn** | Lead full-stack developer — tax filing platform for a licensed e-Return Intermediary (ERIP001268). Thousands of daily users, peak load at ITR deadlines | Live, ongoing |
 | **Uhire** | Full-stack developer — AI-powered hiring platform. Candidate portal, recruiter HRMS, interview and task workflows | Live, ongoing |
 | **PayRecord** | Founder & engineer — offline-first finance tracker for Android and iOS. Local-first data, no server dependency | Live |
+| **AnythingKart** | Founder & engineer — multi-category e-commerce marketplace. Storefront, catalogue, cart and order flow in Next.js | In development, launching 2026 |
 | **AIIMS Web Portal** | Full-stack developer | Completed |
 | **UPPRB Web Portal** | Full-stack developer (Uttar Pradesh Police) | Completed |
 | **Zafari Travel** | Backend & admin panel development | Completed, ongoing updates |
@@ -21,9 +22,9 @@ Full-stack engineer building production platforms in Next.js, Node.js and React 
 
 ### ⚙️ Stack
 
-**Frontend** — Next.js · React · React Native · TypeScript · Tailwind CSS
-**Backend** — Node.js · Express · REST APIs
-**Data** — PostgreSQL · MongoDB
+**Frontend** — Next.js · React · React Native · TypeScript · Tailwind CSS  
+**Backend** — Node.js · Express · REST APIs  
+**Data** — PostgreSQL · MongoDB  
 **Infra** — AWS · CI/CD
 
 ***
