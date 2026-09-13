@@ -29,6 +29,7 @@ Full-stack engineer building production platforms in Next.js, Node.js and React 
 **AI** — LLM function calling · agentic loops · RAG & vector embeddings · structured extraction · prompt engineering  
 **Integrations** — WhatsApp Business API · Meta templates · email automation  
 **Infra** — AWS · GCP · DigitalOcean · Ubuntu · CI/CD  
+**SEO** — on-page · technical SEO · AEO · GEO  
 **Shipped** — 3 apps live on App Store & Google Play
 
 ***
