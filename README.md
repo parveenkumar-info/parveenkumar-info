@@ -1,62 +1,44 @@
-## Hi there 👋
+## Parveen Kumar
 
-<!--  
-**parveenkumar-info/parveenkumar-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
--->
-
-I am Parveen Kumar — a passionate **Full-Stack Web Developer**, **Entrepreneur**, and **Coding Educator**. I started my coding journey in 2021 and have taken on significant responsibilities across several professional projects.
-
-***
-
-### 🚀 About Me
-
-- Worked on **AIIMS** and **UPPRB (Uttar Pradesh Police)** at my official **job** for 4 months.  
-- For other projects like **FileMyReturn (FMR)**, **TravelsGram**, **Lifenest**, and **Zafari Travel**, I worked freelance, completing major phases and now maintaining ongoing updates.  
-- I mainly work on new projects using **Next.js**, **React.js**, **Node.js** (Backend), and **React Native** (for apps).  
-
-***
-
-### 💡 Skills & Expertise
-
-- Web Design & Frontend Development  
-- Backend Systems & APIs  
-- CMS & Admin Panel Development  
-- Creative Problem Solving for custom client needs  
-
-***
-
-### 📺 Learn & Connect
-
-Teaching programming on YouTube in Hinglish since **August 23, 2025**:  
-🎬 [YouTube Channel](https://www.youtube.com/@parveenkumar_info)  
-
-Follow me on Instagram:  
-🎥 [@parveenkumar.info](https://www.instagram.com/parveenkumar.info/)  
-
-Stay updated on X (Twitter):  
-𝕏 [@parveenkumar_in](https://x.com/parveenkumar_in)  
-
-***
-
-### 📞 Contact Me
-
-- Website: [parveenkumar.info](https://parveenkumar.info/)  
-- Email: [team@parveenkumar.info](mailto:team@parveenkumar.info)  
-- Phone: +91 9812805704  
+Full-stack engineer building production platforms in Next.js, Node.js and React Native. Working independently with clients since 2021.
 
 ***
 
 ### 🗂️ Key Projects
 
-| Project               | Role & Details                                | Status                 |
-|-----------------------|----------------------------------------------|------------------------|
-| AIIMS Web Portal      | Full-stack Developer at job                   | Completed              |
-| UPPRB Web Portal      | Full-stack Developer at job                   | Completed              |
-| FileMyReturn (FMR)    | Freelance Lead Full-Stack Developer           | Completed, ongoing updates |
-| Zafari Travel         | Freelance Backend & Admin Panel Development   | Completed, ongoing updates |
-| TravelsGram           | Freelance Admin Panel Development              | Completed, ongoing updates |
-| Lifenest              | Freelance Admin Panel Development              | Completed, ongoing updates |
+| Project | Role & Details | Status |
+|---|---|---|
+| **FileMyReturn** | Lead full-stack developer — tax filing platform for a licensed e-Return Intermediary (ERIP001268). Thousands of daily users, peak load at ITR deadlines | Live, ongoing |
+| **Uhire** | Full-stack developer — AI-powered hiring platform. Candidate portal, recruiter HRMS, interview and task workflows | Live, ongoing |
+| **PayRecord** | Founder & engineer — offline-first finance tracker for Android and iOS. Local-first data, no server dependency | Live |
+| **AIIMS Web Portal** | Full-stack developer | Completed |
+| **UPPRB Web Portal** | Full-stack developer (Uttar Pradesh Police) | Completed |
+| **Zafari Travel** | Backend & admin panel development | Completed, ongoing updates |
+| **TravelsGram** | Admin panel development | Completed, ongoing updates |
+| **Lifenest** | Admin panel development | Completed, ongoing updates |
 
 ***
 
-Thank you for visiting! Let's build something great together 🚀
+### ⚙️ Stack
+
+**Frontend** — Next.js · React · React Native · TypeScript · Tailwind CSS
+**Backend** — Node.js · Express · REST APIs
+**Data** — PostgreSQL · MongoDB
+**Infra** — AWS · CI/CD
+
+***
+
+### 📦 Open Source
+
+**[flexifyui](https://github.com/parveenkumar-info/flexifyui)** — TypeScript UI library for React 15+ and Next.js 13+, built on Tailwind CSS. MIT licensed.
+
+**[json-datasets](https://github.com/parveenkumar-info/json-datasets)** — structured JSON datasets for common reference data. MIT licensed.
+
+***
+
+### 📞 Contact
+
+- Website — [parveenkumar.info](https://parveenkumar.info/)
+- LinkedIn — [parveenkumar-info](https://www.linkedin.com/in/parveenkumar-info/)
+- Email — [team@parveenkumar.info](mailto:team@parveenkumar.info)
+- X — [@parveenkumar_in](https://x.com/parveenkumar_in)
